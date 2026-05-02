@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-labelledby="title desc">
+  <title>ArcGIS Online PWA</title>
+  <desc>Icono de la aplicacion de mapas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b3a53" />
+      <stop offset="100%" stop-color="#1f7b9e" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="url(#bg)" />
+  <path d="M38 60c31-22 84-22 116 0-21 2-40 11-58 26-18-15-37-24-58-26Z" fill="#f3efe6" opacity="0.92" />
+  <path d="M41 98c27 9 42 22 55 48 13-26 28-39 55-48-11 31-31 46-55 57-24-11-44-26-55-57Z" fill="#dd9e38" />
+  <circle cx="96" cy="92" r="14" fill="#ffffff" />
+</svg>
